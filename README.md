@@ -1,1 +1,1 @@
-https://github.com/EvgeniiZH/ono-tebe-nado
+https://github.com/EvgeniiZH/ono-tebe-nado.git
